@@ -1,0 +1,32 @@
+form {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    padding: 5px 25px 30px;
+    margin-top: 80px;
+}
+
+.needs-margin {
+    margin-left: 55px;
+}
+
+.no-padding {
+    padding: 0px;
+}
+
+.right-align {
+    text-align: right;
+    display: block;
+
+}
+
+.needs-margin-top-bottom {
+    margin: 10px 0px;
+}
+
+.needs-margin-bottom {
+    margin-bottom: 30px;
+}
+
+.needs-margin-left {
+    margin-left: 25px;
+}
