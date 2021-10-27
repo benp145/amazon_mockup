@@ -30,3 +30,19 @@ form {
 .needs-margin-left {
     margin-left: 25px;
 }
+
+.line {
+    border-bottom: 1px solid gray;
+    line-height: 0.001em;
+    margin: 20px 15px;
+}
+
+.gray-link {
+    background: #fff;
+    padding:0 4px;
+}
+
+.gray-btn {
+    margin: 15px;
+    
+}
