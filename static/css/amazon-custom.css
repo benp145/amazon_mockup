@@ -6,7 +6,7 @@ form {
 }
 
 .needs-margin {
-    margin-left: 55px;
+    margin: 100px 55px;
 }
 
 .no-padding {
@@ -21,6 +21,10 @@ form {
 
 .needs-margin-top-bottom {
     margin: 10px 0px;
+}
+
+.needs-margin-top {
+    margin: 50px 0px 20px;
 }
 
 .needs-margin-bottom {
@@ -43,6 +47,5 @@ form {
 }
 
 .gray-btn {
-    margin: 15px;
-    
+    margin: 15px 15px 50px;
 }
